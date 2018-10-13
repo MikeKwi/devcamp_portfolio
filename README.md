@@ -6,7 +6,7 @@
 
 - Real time chat engine for comments
 - Blog 
-- Portyfolio 
+- Portfolio 
 -Drag and drop interface
 
 
